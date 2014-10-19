@@ -1,10 +1,11 @@
 body {
   font-family: 'Raleway', sans-serif;
-	/*font-size: 48px;*/
 	margin:	0px;
-	/*background-image: url(https://s3.amazonaws.com/nanodegreeportfolio/stock-background.jpg);*/
-	background-size: 100%;
-	background-repeat: no-repeat;
+}
+a {
+	color: gray;
+	text-decoration: none;
+	font-size: 20px;
 }
 .header {
 	border-bottom: 2px solid black;
@@ -24,7 +25,6 @@ body {
 	font-size: 48px;
 	margin: 0px;
 }
-
 .subtitle {
 	text-align: right;
 }
@@ -44,11 +44,6 @@ body {
 	display: block;
 	text-align: center;
 }
-a {
-	color: gray;
-	text-decoration: none;
-	font-size: 20px;
-}
 #aboutMeDiv {
 	display: inline-block;
 	width: 100%;
@@ -59,4 +54,7 @@ a {
 #aboutMe {
 	text-align: left;
 	margin-left: 20px;
+}
+.singleRow {
+	float: left;
 }
