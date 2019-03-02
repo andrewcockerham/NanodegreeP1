@@ -20,8 +20,8 @@ a {
 a:hover,
 a:focus {
 	font-weight: 700;
-	font-size: 30px;
-	color: blue;
+	font-size: 22px;
+	color: gray;
   /*color: #d52d40;*/
   /*color: #eb3812;*/
 }
