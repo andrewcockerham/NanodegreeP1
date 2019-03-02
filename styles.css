@@ -1,6 +1,7 @@
 body {
   font-family: 'Raleway', sans-serif;
 	margin:	0px;
+	background-color: #D3D3D3
 }
 a {
 	-webkit-transition: all 0.35s;
